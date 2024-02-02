@@ -1,9 +1,20 @@
+
 <h1 align="center">Hi 👋, I'm Uriel</h1>
 <h3 align="center">A passionate frontend developer from Mexico</h3>
+
+- 🔭 I´am currently working as a **freelancer**
+
+- 🌱 I’m currently learning **object-oriented programming.**
+
+- 👯 I’m looking to collaborate on **Java**
+
+- 📫 How to reach me **urielr.g.57@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/uriel r.g." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="uriel r.g." height="30" width="40" /></a>
+<a href="https://fb.com/leiru.rg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="leiru.rg" height="30" width="40" /></a>
+<a href="https://instagram.com/leirurg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leirurg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
